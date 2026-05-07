@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm AUSTIN</h1>
+<h1 align="center">Hey, I'm AUSTIN</h1>
 
 <h3 align="center">
 💻 Software Developer | 🌐 Web Developer | 🤖 AI Enthusiast

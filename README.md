@@ -61,33 +61,6 @@ Focus: Frontend Development, AI & Modern UI
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AUSTIN-STAR-07&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AUSTIN-STAR-07&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AUSTIN-STAR-07&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AUSTIN-STAR-07/AUSTIN-STAR-07/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
 
 # ⚡ Fun Fact
 

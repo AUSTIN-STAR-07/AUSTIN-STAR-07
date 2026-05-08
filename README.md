@@ -32,7 +32,7 @@ Focus: Frontend Development, AI & Modern UI
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 
-  <a href="(https://github.com/AUSTIN-STAR-07)">
+  <a href="https://github.com/AUSTIN-STAR-07">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>

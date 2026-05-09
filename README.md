@@ -36,7 +36,7 @@ Currently Learning:
 <img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
 
-<a href="https://linkedin.com">
+<a href="www.linkedin.com/in/austinstar07">
 <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
 

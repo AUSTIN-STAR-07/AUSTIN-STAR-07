@@ -4,7 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Software+Developer;Frontend+Developer;AI+Enthusiast;React+%7C+Python+%7C+Django;Building+Modern+Web+Applications;Always+Learning+New+Things+🚀)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=AUSTIN-STAR-07&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AUSTIN-STAR-07&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge&base=45180" />
+</p>
 
 </div>
 

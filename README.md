@@ -83,9 +83,6 @@ Currently Learning:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AUSTIN-STAR-07&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AUSTIN-STAR-07&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
 
 <img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=AUSTIN-STAR-07&theme=tokyonight&hide_border=true&border_radius=15"/>
 

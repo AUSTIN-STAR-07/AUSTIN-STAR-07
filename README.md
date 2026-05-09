@@ -115,11 +115,9 @@ Currently Learning:
 
 # 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/AUSTIN-STAR-07/AUSTIN-STAR-07/output/snake.svg" alt="Snake animation" />
-
-</div>
+<p align="center">
+  <img src="https://github.com/AUSTIN-STAR-07/AUSTIN-STAR-07/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
